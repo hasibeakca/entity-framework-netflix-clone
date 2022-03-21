@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\Netflix.Business.deps.json
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\Netflix.Business.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\ref\Netflix.Business.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\Netflix.Business.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\Netflix.DAL.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\Netflix.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.csproj.CopyComplete
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\ref\Netflix.Business.dll
+C:\Users\HASİBE\Source\Repos\Netflix\Netflix.Business\obj\Debug\net5.0\Netflix.Business.pdb

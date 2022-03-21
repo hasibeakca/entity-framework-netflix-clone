@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\Netflix.DAL.deps.json
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\Netflix.DAL.runtimeconfig.json
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\Netflix.DAL.runtimeconfig.dev.json
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\Netflix.DAL.dll
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\ref\Netflix.DAL.dll
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\Netflix.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.dll
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\ref\Netflix.DAL.dll
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.pdb
+C:\Users\HASİBE\Source\Repos\Netflix\ClassLibrary1\obj\Debug\net5.0\Netflix.DAL.genruntimeconfig.cache
